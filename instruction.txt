@@ -1,0 +1,8 @@
+How to start the game?
+Ans: First download the Game.py file and you will also need python under which there should be open-cv, cvzone and numpy. Search youtube for how to download these packages.
+How to play?
+Once you are error-free and ready to play the game, run the file, then you must look at the timer and whenever their is a pink circle, click on it by your hadn by moving your hand a bitfarther to the screen and then moving it back, watch the below link for how to make the code and how to play the game.
+
+Link: https://www.youtube.com/watch?v=NGQgRH2_kq8&t=1438s
+
+Thank you for your time :)
